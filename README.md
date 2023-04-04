@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Yan Belchior</h1>
-<h3 align="center">A passionate data scientis from Brazil</h3>
+<p align="center">
+  <img src="https://github.com/bigodsk/bigodsk/raw/main/assets/header-github.gif" alt="Hi, I'm Yan">
+</p>
+
+<!--
+How to make the bio gif ?
+💜 Thanks to [matyo91](https://github.com/matyo91)
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
 
 - 👯 I’m looking to collaborate on: **AI and data science projects**
 - 💬 Ask me about: **Data science, AI ethics, machine learning, etc.**

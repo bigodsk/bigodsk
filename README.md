@@ -19,4 +19,5 @@
 <a href="https://kaggle.com/yanbelchior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yanbelchior" height="30" width="40" /></a>
 <a href="https://instagram.com/yan.belchior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yan.belchior" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yrbelchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yrbelchi" height="30" width="40" /></a>
+<a href="https://discord.gg/#0784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0784" height="30" width="40" /></a>
 </p>

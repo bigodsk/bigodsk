@@ -15,7 +15,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 👯 I’m looking to collaborate on: **AI and data science projects**
 - 💬 Ask me about: **Data science, AI ethics, machine learning, etc.**
 - 📫 How to reach me: **yrbelchi@gmail.com**
-- ⚡ Fun fact: **I love baking bread and Brazilian Jiu-Jistu!**
+- ⚡ Fun fact: **I love baking bread!**
 
 <details open>
   <summary><b><h3> :wrench: Languages and Tools </h3></b></summary>

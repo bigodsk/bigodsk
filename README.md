@@ -1,6 +1,4 @@
-# Yan Rafael Areias Belchior — Data Professional
-
-**Data professional focused on building reliable data pipelines and delivering concise, actionable reports.**
+# Yan Belchior
 
 > *Profissional de dados com mais de 4 anos de experiência em Business Intelligence, Analytics e Engenharia de Dados, atuando no desenvolvimento de soluções end-to-end orientadas à tomada de decisão.*  
 

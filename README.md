@@ -3,7 +3,6 @@
 **Data professional focused on building reliable data pipelines and delivering concise, actionable reports.**
 
 > *Profissional de dados com mais de 4 anos de experiência em Business Intelligence, Analytics e Engenharia de Dados, atuando no desenvolvimento de soluções end-to-end orientadas à tomada de decisão.*  
-> *Melhoria de 37% na performance de dashboards críticos e estruturação de dados com milhões de registros em ambiente de Data Warehouse.*
 
 ---
 

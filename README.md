@@ -22,11 +22,10 @@ Sou um profissional da área de dados com experiência prática em **construçã
 ---
 
 ### Stack técnico
-**Cloud**: Azure, GCP, AWS  
+**Cloud**: Azure, GCP  
 **Plataformas**: Databricks, Microsoft Fabric, Azure Data Factory, BigQuery  
 **BI / Visualização**: Power BI, Power Apps, Power Automate  
-**Linguagens / Query**: SQL avançado, Python  
-**Outros**: Automation Anywhere, SAP, integração com Google Ads / Meta Ads / RD Station / HubSpot
+**Linguagens / Query**: SQL, Python, TypeScript
 
 ---
 
@@ -55,7 +54,6 @@ Sou um profissional da área de dados com experiência prática em **construçã
 - **Engenharia da Computação e Bacharel em TI** — UNIVESP (2023 - atual)  
 - **Engenharia Mecânica** — UNICAMP (2018 - 2023)  
 - **Inglês**: Avançado  
-- **Espanhol**: Intermediário
 
 ---
 
@@ -69,7 +67,6 @@ Sou um profissional da área de dados com experiência prática em **construçã
 
 ### Contato
 - **LinkedIn**: https://linkedin.com/in/yan-belchior  
-- **Telefone**: +55 14 99168-6088  
 - **Email**: yrbelchi@gmail.com  
 - **Localização**: Campinas, SP.
 ---

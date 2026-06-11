@@ -1,6 +1,6 @@
 # Yan Belchior
 
-> *Profissional de dados com mais de 4 anos de experiência em Business Intelligence, Analytics e Engenharia de Dados, atuando no desenvolvimento de soluções end-to-end orientadas à tomada de decisão.*  
+> *Profissional de dados com mais de 5 anos de experiência em Business Intelligence, Analytics e Engenharia de Dados, atuando no desenvolvimento de soluções end-to-end orientadas à tomada de decisão.*  
 
 ---
 
@@ -20,14 +20,17 @@ Sou um profissional da área de dados com experiência prática em **construçã
 ---
 
 ### Stack técnico
-**Cloud**: Azure, GCP  
-**Plataformas**: Databricks, Microsoft Fabric, Azure Data Factory, BigQuery  
+**Cloud**: Azure, GCP, AWS
+**Plataformas**: Databricks, Microsoft Fabric, Azure Data Factory, BigQuery, Athena, RedShift  
 **BI / Visualização**: Power BI, Power Apps, Power Automate  
 **Linguagens / Query**: SQL, Python, TypeScript
 
 ---
 
 ### Experiência resumida
+- **Itaú Unibanco — Data Lead (2026–atual)**  
+  Liderar o domínio de dados de Foundation do aplicativo Itaú EMPS.
+
 - **B&T XP — Desenvolvedor de Inteligência de Dados (2024–2026)**  
   Desenvolvimento de dashboards executivos, modelagem dimensional, pipelines em Databricks/Azure, automação de relatórios e análises RFM. Resultado: melhoria de performance e estruturação de bases com milhões de registros.
 
@@ -51,7 +54,7 @@ Sou um profissional da área de dados com experiência prática em **construçã
 ### Formação e idiomas
 - **Engenharia da Computação e Bacharel em TI** — UNIVESP (2023 - atual)  
 - **Engenharia Mecânica** — UNICAMP (2018 - 2023)  
-- **Inglês**: Avançado  
+- **Inglês**: Fluente  
 
 ---
 
